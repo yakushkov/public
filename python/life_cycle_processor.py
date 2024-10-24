@@ -1,7 +1,7 @@
 # life_cycle_processor.py
 import pandas as pd
 import numpy as np
-from work_calendar import WorkCalendar
+from python.work_calendar import WorkCalendar
 
 class LifeCycleProcessor:
     def __init__(self, timezone='Europe/Moscow'):
